@@ -33,4 +33,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency('mocha', '~> 0.14.0')
   s.add_development_dependency('fakeweb', '~> 1.3.0')
   s.add_development_dependency('simplecov', '~> 0.8.2')
+  s.add_development_dependency('pg', '>= 0.18.4')
 end
