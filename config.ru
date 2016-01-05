@@ -1,3 +1,4 @@
+#\ -s puma
 require 'dashing'
 
 configure do
@@ -16,3 +17,7 @@ map Sinatra::Application.assets_prefix do
 end
 
 run Sinatra::Application
+
+require "rack-timeout"
+use Rack::Timeout          # Call as early as possible so rack-timeout runs before all other middleware.
+Rack::Timeout.timeout = 5  # Recommended. If omitted, defaults to 15 seconds.
