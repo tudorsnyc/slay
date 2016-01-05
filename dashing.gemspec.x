@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.add_dependency('execjs', '>= 2.0.2')
   s.add_dependency('sinatra', '>= 1.4.4')
   s.add_dependency('sinatra-contrib', '>= 1.4.2')
-
+  s.add_dependency('thin', '>= 1.6.1')
   s.add_dependency('rufus-scheduler', '>= 2.0.24')
   s.add_dependency('thor', '>= 0.18.1')
   s.add_dependency('sprockets', '>= 2.10.1')
@@ -34,9 +34,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency('fakeweb', '>= 1.3.0')
   s.add_development_dependency('simplecov', '>= 0.8.2')
   s.add_development_dependency('pg', '>= 0.18.4')
-
-
-
 
 # This is only used when puma is a git dep from Bundler, so it's a little
 # weird.
