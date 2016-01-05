@@ -41,7 +41,7 @@ task :prerelease => [:clobber, :check_manifest, :test]
 
 # hoe/test and rake-compiler don't seem to play well together, so disable
 # hoe/test's .gemtest touch file thingy for now
-# HOE.spec.files -= [".gemtest"]
+HOE.spec.files -= [".gemtest"]
 
 include Hoe::Git
 
