@@ -1,11 +1,15 @@
 ---
-convergence: "data: {\"points\":[{\"x\":5,\"y\":30},{\"x\":6,\"y\":27},{\"x\":7,\"y\":14},{\"x\":8,\"y\":11},{\"x\":9,\"y\":30},{\"x\":10,\"y\":45},{\"x\":11,\"y\":2},{\"x\":12,\"y\":8},{\"x\":13,\"y\":38},{\"x\":14,\"y\":31}],\"id\":\"convergence\",\"updatedAt\":1451952987}\n\n"
-buzzwords: "data: {\"items\":[{\"label\":\"Pivoting\",\"value\":1},{\"label\":\"Turn-key\",\"value\":1},{\"label\":\"Exit
-  strategy\",\"value\":1},{\"label\":\"Streamlininess\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1451952987}\n\n"
-valuation: "data: {\"current\":99,\"last\":52,\"id\":\"valuation\",\"updatedAt\":1451952987}\n\n"
-karma: "data: {\"current\":682,\"last\":191742,\"id\":\"karma\",\"updatedAt\":1451952987}\n\n"
-synergy: "data: {\"value\":33,\"id\":\"synergy\",\"updatedAt\":1451952987}\n\n"
-twitter_mentions: "data: {\"comments\":[{\"name\":\"r/\",\"body\":\"#todayilearned:
+convergence: "data: {\"points\":[{\"x\":3715,\"y\":25},{\"x\":3716,\"y\":17},{\"x\":3717,\"y\":3},{\"x\":3718,\"y\":9},{\"x\":3719,\"y\":16},{\"x\":3720,\"y\":38},{\"x\":3721,\"y\":35},{\"x\":3722,\"y\":7},{\"x\":3723,\"y\":18},{\"x\":3724,\"y\":34}],\"id\":\"convergence\",\"updatedAt\":1451957468}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Pivoting\",\"value\":0},{\"label\":\"Synergy\",\"value\":11},{\"label\":\"Enterprise\",\"value\":13},{\"label\":\"Exit
+  strategy\",\"value\":2},{\"label\":\"Streamlininess\",\"value\":27},{\"label\":\"Turn-key\",\"value\":28},{\"label\":\"Leverage\",\"value\":28},{\"label\":\"Web
+  2.0\",\"value\":16},{\"label\":\"Paradigm shift\",\"value\":19}],\"id\":\"buzzwords\",\"updatedAt\":1451957468}\n\n"
+valuation: "data: {\"current\":28,\"last\":17,\"id\":\"valuation\",\"updatedAt\":1451957468}\n\n"
+karma: "data: {\"current\":89211,\"last\":164353,\"id\":\"karma\",\"updatedAt\":1451957468}\n\n"
+synergy: "data: {\"value\":79,\"id\":\"synergy\",\"updatedAt\":1451957468}\n\n"
+twitter_mentions: "data: {\"comments\":[{\"name\":\"Brendan Ralph\",\"body\":\"no
+  ways! #todayilearned https://t.co/khy6XQjqhv\",\"avatar\":\"https://pbs.twimg.com/profile_images/681272833130020864/-RcYcRJD_normal.jpg\"},{\"name\":\"reddit
+  TIL\",\"body\":\"Today I Learned @Reddit https://t.co/MHvvSHgnNw #Reddit #TodayILearned
+  #TIL https://t.co/qQmOt4MvNh\",\"avatar\":\"https://pbs.twimg.com/profile_images/576819978197827584/jviUkOmr_normal.png\"},{\"name\":\"r/\",\"body\":\"#todayilearned:
   TIL New College (f 1379) has a hall made with oak beams. A century ago it … https://t.co/VaeVPnmpmw
   https://t.co/uW113pLfx9\",\"avatar\":\"https://pbs.twimg.com/profile_images/572151330936864768/IgBxxpa3_normal.png\"},{\"name\":\"Wolfidy\",\"body\":\"#todayilearned
   Manuary is a word in the Scrabble dictionary.\",\"avatar\":\"https://pbs.twimg.com/profile_images/674263104688115713/cavOXvN-_normal.jpg\"},{\"name\":\"reddit
@@ -151,4 +155,4 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"r/\",\"body\":\"#todayilearn
   TIL\",\"body\":\"Today I Learned @Reddit https://t.co/Ybd4WW8dHX #Reddit #TodayILearned
   #TIL https://t.co/Vo5WflOHnU\",\"avatar\":\"https://pbs.twimg.com/profile_images/576819978197827584/jviUkOmr_normal.png\"},{\"name\":\"My
   Soap Box\",\"body\":\"#TodayILearned Psychologists Discover That People Subconsciously
-  Take On Attributes Of Their Favorite Fictional Characters\",\"avatar\":\"https://pbs.twimg.com/profile_images/471774758317461504/gc41rJb1_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1451952979}\n\n"
+  Take On Attributes Of Their Favorite Fictional Characters\",\"avatar\":\"https://pbs.twimg.com/profile_images/471774758317461504/gc41rJb1_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1451957241}\n\n"
